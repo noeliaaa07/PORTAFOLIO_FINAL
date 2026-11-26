@@ -46,19 +46,5 @@ docs/
     └── pages.yml
 ```
 
-## Créditos
-
-- **Botón:** adaptación HTML/CSS del componente Button de Wensity Labs, publicado en [21st.dev](https://21st.dev/@wensity/components/button) bajo licencia MIT. La adaptación y atribución también se incluyen en el footer del sitio.
-- **Tipografías:** [Anton](https://fonts.google.com/specimen/Anton), [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) y [Space Mono](https://fonts.google.com/specimen/Space+Mono), servidas por Google Fonts.
-- **Imágenes y colaboraciones:** las fotografías y láminas se encuentran en `docs/assets/`. Los permisos de publicación de las fotografías están confirmados; añade los créditos de autoría y colaboración que correspondan.
-- **Audio y video:** no se han incorporado archivos audiovisuales propios al sitio. Acreditar autoría, fuente y licencia si se agregan.
-
 ## Reflexión personal
-
-CREA UNA REFLEXION INSPIRADA EN LO QUE DIRIA NOELIA
-
-## Revisión antes de publicar
-
-
-- Añadir la URL pública de GitHub Pages después del primer despliegue.
-
+Me gusta poder mostrar mis conocimientos y mis creaciones de esta forma para inspirar a los demas y seguir inspirandome a mi, poder tomar desiciones de diseños hasta para crear una web encuentro que puede ser la mejor parte de crear, mostrar siempre lo que quiero de la forma que puedo hacerlo, mostrarlo de la manera que me gusta y guardarlo como una revista.
