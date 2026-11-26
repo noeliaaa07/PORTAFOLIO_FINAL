@@ -2,7 +2,7 @@
 
 Portafolio editorial de Noelia Landaburu, estudiante de cuarto año de Diseño de Moda en la Universidad Diego Portales, Santiago de Chile. Reúne proyectos de moda, styling, dirección de arte y experimentación visual en un sitio de estética inspirada en revistas, zines y cultura visual Y2K.
 
-**Demo:** pendiente de publicar en GitHub Pages. La URL aparecerá en el resultado del despliegue.
+**Demo:** https://noeliaaa07.github.io/PORTAFOLIO_FINAL/
 
 ## El sitio
 
