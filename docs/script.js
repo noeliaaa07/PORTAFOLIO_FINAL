@@ -1,9 +1,4 @@
 const projects = {
-  "gestos-e01": {
-    name: "Gestos",
-    course: "E01 · CURSO",
-    description: "Ejercicio del curso E01 presentado bajo el título Gestos."
-  },
   "dos-realidades-e02": {
     name: "Dos realidades",
     course: "E02 · CURSO · DPPI 2026",
@@ -13,11 +8,6 @@ const projects = {
     name: "Escuchar la imagen",
     course: "E03 + T06 · CURSO",
     description: "Experimento audiovisual interactivo que transforma la luz y los cambios de una imagen en zonas, notas y sonido. Permite explorar la experiencia desde una cámara, un video o una fotografía, ajustando sus capas y parámetros."
-  },
-  "tocar-la-imagen-e04": {
-    name: "Tocar la imagen",
-    course: "E04 · CURSO",
-    description: "Ejercicio del curso E04 presentado bajo el título Tocar la imagen."
   },
   "darwinii": {
     name: "Darwinii",

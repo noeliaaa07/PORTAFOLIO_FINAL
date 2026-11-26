@@ -6,7 +6,7 @@ Portafolio editorial de Noelia Landaburu, estudiante de cuarto año de Diseño d
 
 ## El sitio
 
-La portada presenta una selección de once proyectos, con una ficha individual para cada uno, además de las secciones «Sobre mí» y «Contacto». El lenguaje visual combina tipografía de gran formato, composición editorial, fotografía, rosa neón y verde ácido. El diseño se adapta a pantallas pequeñas e incluye navegación móvil y galerías.
+La portada presenta una selección de nueve proyectos, con una ficha individual para cada uno, además de las secciones «Sobre mí» y «Contacto». El lenguaje visual combina tipografía de gran formato, composición editorial, fotografía, rosa neón y verde ácido. El diseño se adapta a pantallas pequeñas e incluye navegación móvil y galerías.
 
 ## Tecnologías
 
